@@ -1,1 +1,3 @@
-# taslim
+This is a Library Management System which has backend supposrt as well. In this project, one can add entry of book taken, update selected information, delete that entry when student returns book and view all entries of books reneted.
+
+The student has to provide his/her phone number and name to rent a book. ow admin with add entry of student along with check in time and when he returns that book, he adds check out time. In this way one can see the history of books rented along with time and person who rented it.
