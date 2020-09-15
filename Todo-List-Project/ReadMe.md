@@ -1,0 +1,1 @@
+This is TODO list website which is made using frontend tools such as HTML CSS Javascript. Here a person can add all his activities of the same or upcoming days. Moreover after completing that work he or she can delete the task as well.
